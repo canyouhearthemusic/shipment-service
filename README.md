@@ -2,8 +2,6 @@
 
 gRPC microservice for tracking shipments and their status changes throughout the delivery lifecycle. Built with Go.
 
-Postman collection: https://witme4.postman.co/workspace/local~aa6fb49b-7cdb-440f-99c9-9f62979f5ea0/collection/69ba1a336f7a7edf4ff42452?action=share&source=copy-link&creator=30415822
-
 ## Running the service
 
 You'll need Go 1.25+ installed.
